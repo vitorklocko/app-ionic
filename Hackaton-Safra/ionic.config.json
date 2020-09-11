@@ -1,7 +1,0 @@
-{
-  "name": "Hackaton-Safra",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
